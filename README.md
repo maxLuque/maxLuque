@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maxLuque
+- 👀 I’m interested in Python Aplication
+- 🌱 I’m currently learning Tecnicatura en Programacion en la Univiersidad Provincial del Sudoeste
+- 💞️ I’m looking to collaborate on ...
+- 📫 luquemaxandres@gmail.com

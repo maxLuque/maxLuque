@@ -9,6 +9,6 @@
 
 **Contacto:**
 
-Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a luquemaxandres@gmail.com (correo electrónico) o contactarme a través de mi perfil de Github.
+Si deseas ponerte en contacto conmigo, puedes enviarme un correo electrónico a luquemaxandres@gmail.com o contactarme a través de mi perfil de Github.
 
 ¡Gracias por visitar mi perfil de Github! Espero que te gusten mis proyectos y no dudes en contactarme si tienes alguna pregunta o sugerencia.
